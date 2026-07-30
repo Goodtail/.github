@@ -7,8 +7,7 @@
 <h1 align="center">Goodtail</h1>
 
 <p align="center">
-  작은 불편을 오래 쓸 수 있는 도구로 만듭니다.<br>
-  첫 공개 오픈소스부터, 빠르고 단단한 macOS 앱을 차례로 선보입니다.
+  macOS 앱과 개발 도구를 만듭니다.
 </p>
 
 <p align="center">
@@ -43,6 +42,5 @@ brew install --cask goodtail/tap/porter
 
 ---
 
-Porter는 Goodtail의 **첫 공개 오픈소스 프로젝트**입니다.
-버그 제보, 기능 제안, 코드 기여는 [Issues](https://github.com/Goodtail/porter/issues)와
+Porter의 버그 제보, 기능 제안, 코드 기여는 [Issues](https://github.com/Goodtail/porter/issues)와
 [Pull requests](https://github.com/Goodtail/porter/pulls)에서 받습니다.
